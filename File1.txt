@@ -1,1 +1,2 @@
 This is main branch file
+This is file was changed inside branch1
